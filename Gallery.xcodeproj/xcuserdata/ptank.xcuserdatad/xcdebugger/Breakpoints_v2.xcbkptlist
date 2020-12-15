@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A90193B-080F-47FC-B320-467581A52548"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "F5C66645-70CE-4501-81C0-D40DB4CB4257"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "-[TVIVideoView mtkView:drawableSizeWillChange:]"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "F5C66645-70CE-4501-81C0-D40DB4CB4257 - 33ac268aefefcb2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TVIVideoView mtkView:drawableSizeWillChange:]"
+                  moduleName = "TwilioVideo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/distiller/project/TwilioVideo/TwilioVideo/Sources/Objective-C/Implementation/Media/Metal/TVIVideoView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "424"
+                  endingLineNumber = "424"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
